@@ -1,64 +1,64 @@
 # ShrekBash
--Find assets on the internet:
-	Characters
-		Shrek
-		Fiona
-		Farquad
-		ff7 cloud/barrett
-		ratchet and clank https://www.models-resource.com/playstation_2/ratchetclank/
-		crash https://www.models-resource.com/playstation_2/crashbandicootwrathofcortex/
-		bee movie
-		tony hawk
-		kingom hearts
+-Find assets on the internet: < br/>
+	Characters< br/>
+		Shrek< br/>
+		Fiona< br/>
+		Farquad< br/>
+		ff7 cloud/barrett< br/>
+		ratchet and clank https://www.models-resource.com/playstation_2/ratchetclank/< br/>
+		crash https://www.models-resource.com/playstation_2/crashbandicootwrathofcortex/< br/>
+		bee movie< br/>
+		tony hawk< br/>
+		kingom hearts< br/>
 		
-	Others
-		shrek themed food (heath)
-		boxes
-		tnt or tnt equivelent
-		powerups?
+	Others< br/>
+		shrek themed food (heath)< br/>
+		boxes< br/>
+		tnt or tnt equivelent< br/>
+		powerups?< br/>
 		
--Try kinematics on a model before downloading all (humanoid)
--Get kinematics working on all models
--Models walking
--Picking up box
--Throwing box
--Colliding with throw
--jumping?
+-Try kinematics on a model before downloading all (humanoid)< br/>
+-Get kinematics working on all models< br/>
+-Models walking< br/>
+-Picking up box< br/>
+-Throwing box< br/>
+-Colliding with throw< br/>
+-jumping?< br/>
 
--Player classes
-	hp
-	throw power
-	run speed
-	throw distance
-	model
-	run anim
-	carry anim
-	hit sound
-	rounds won?
-	jump height?
+-Player classes< br/>
+	hp< br/>
+	throw power< br/>
+	run speed< br/>
+	throw distance< br/>
+	model< br/>
+	run anim< br/>
+	carry anim< br/>
+	hit sound< br/>
+	rounds won?< br/>
+	jump height?< br/>
 	
--Skyboxes
+-Skyboxes< br/>
 
--Maps
+-Maps< br/>
 
--Game logic
-	clock
-	total rounds/rounds won?
-	hud/ui
-	character headshots
-	hp bar
-	victory screen
-	3d model of victory text with small camera rotations to look cool ?
+-Game logic< br/>
+	clock< br/>
+	total rounds/rounds won?< br/>
+	hud/ui< br/>
+	character headshots< br/>
+	hp bar< br/>
+	victory screen< br/>
+	3d model of victory text with small camera rotations to look cool ?< br/>
 	
--UI
-	main menu
-	character select screen
-	map select screen
+-UI< br/>
+	main menu< br/>
+	character select screen< br/>
+	map select screen< br/>
 	
--Camera
-	third person omnicient
-	scaling based on including all players
+-Camera< br/>
+	third person omnicient< br/>
+	scaling based on including all players< br/>
 
--Background music
+-Background music< br/>
 	
-AI???
+AI???< br/>
