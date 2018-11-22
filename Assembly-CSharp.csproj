@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameLoop.cs" />
     <Compile Include="Assets\PlayerMove.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/Jeff/Documents/Unity/ShrekBash/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

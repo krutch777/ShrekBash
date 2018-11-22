@@ -187,5 +187,6 @@
 -define:ENABLE_BURST_AOT
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
+'Assets/GameLoop.cs'
 'Assets/PlayerMove.cs'
 -lib:'/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity'
